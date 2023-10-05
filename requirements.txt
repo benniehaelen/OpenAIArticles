@@ -1,0 +1,6 @@
+jupyter
+langchain
+openai
+pinecone-client
+tiktoken
+
